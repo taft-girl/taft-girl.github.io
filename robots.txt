@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://taft-girl.github.io/sitemap/sitemap.txt
